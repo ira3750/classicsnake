@@ -25,7 +25,7 @@ A simple implementation of the classic Snake game built using Android Studio. Th
 
 ## How to Play
 
-- Use swipe gestures or arrow buttons to control the snake
+- Use taps to control the snake
 - Eat food to grow and increase your score
 - Avoid hitting walls or yourself
 - Try to achieve the highest score possible
@@ -35,12 +35,12 @@ A simple implementation of the classic Snake game built using Android Studio. Th
 ## Screenshots
 
 ### Main Game Screen
-![Game Screen](images/pic1.png)
+![Game Screen](pic1.jpg)
 
 ### Gameplay
-![Gameplay](images/pic2.png)
-![Gameplay](images/pic3.png)
-![Gameplay](images/pic4.png)
+![Gameplay](pic2.jpg)
+![Gameplay](pic3.jpg)
+![Gameplay](pic4.jpg)
 
 ---
 
