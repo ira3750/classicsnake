@@ -42,6 +42,6 @@ A simple implementation of the classic Snake game built using Android Studio. Th
 ![Gameplay](pic3.jpg)
 ![Gameplay](pic4.jpg)
 
----
+# note: 
+This is not the original source code as that was lost. this has been retrived from the apk file. 
 
-   git clone https://github.com/your-username/snake-game.git
